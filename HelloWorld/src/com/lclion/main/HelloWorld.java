@@ -8,6 +8,8 @@ public class HelloWorld
 		// TODO Auto-generated method stub
 		System.out.println("A very basic test for GitHub");
 		System.out.println("Hello World");
+		
+		Banana banana = new Banana();
 	}
 
 }
