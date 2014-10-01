@@ -10,8 +10,9 @@ public class HelloWorld
 		System.out.println("Hello World");
 		
 		Banana banana = new Banana();
+		banana.peelBanana();
 		
-		System.out.println("A new GIT Push");
+		System.out.println("A new GIT Line modification commit");
 	}
 
 }
